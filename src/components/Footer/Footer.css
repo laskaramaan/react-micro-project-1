@@ -1,0 +1,40 @@
+.footer {
+  display: flex;
+  flex-basis: 50%;
+  background: #282828;
+  color: #ffffff;
+  padding: 0% 13%;
+  position: relative;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 160%;
+}
+.right-footer {
+  width: 50vw;
+  height: 50vh;
+  padding: 60px;
+  box-sizing: border-box;
+
+  text-align: right;
+}
+
+.left-footer {
+  width: 50vw;
+
+  width: 50vw;
+  height: 50vh;
+  padding: 60px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.takespace {
+  display: inline-block;
+}
